@@ -57,4 +57,4 @@ cd Flutter-100-Widgets-with-Handwritten-Notes
 code .  # Opens in VS Code
 
 
-<div align="center"> <p>Made with ❤️ by <a href="https://github.com/Crealify">Crealify</a></p> <p>Empowering Flutter developers through visual learning</p> </div> ```
+<div align="center"> <p>Made with ❤️ by <a href="https://github.com/Crealify">Crealify</a></p> <p>Empowering Flutter developers through visual learning</p> </div>
